@@ -1,0 +1,20 @@
+digraph "full_adder" {
+label="full_adder";
+rankdir="LR";
+remincross=true;
+n1 [ shape=octagon, label="a", color="black", fontcolor="black" ];
+n2 [ shape=octagon, label="b", color="black", fontcolor="black" ];
+n3 [ shape=octagon, label="cin", color="black", fontcolor="black" ];
+n4 [ shape=octagon, label="co", color="black", fontcolor="black" ];
+n5 [ shape=octagon, label="sum", color="black", fontcolor="black" ];
+c10 [ shape=record, label="{{<p6> A|<p7> B|<p8> C}|$101\nsky130_fd_sc_hd__maj3_1|{<p9> X}}" ];
+c11 [ shape=record, label="{{<p6> A|<p7> B|<p8> C}|$102\nsky130_fd_sc_hd__xor3_1|{<p9> X}}" ];
+n1:e -> c10:p7:w [color="black", label=""];
+n1:e -> c11:p7:w [color="black", label=""];
+n2:e -> c10:p6:w [color="black", label=""];
+n2:e -> c11:p6:w [color="black", label=""];
+n3:e -> c10:p8:w [color="black", label=""];
+n3:e -> c11:p8:w [color="black", label=""];
+c10:p9:e -> n4:w [color="black", label=""];
+c11:p9:e -> n5:w [color="black", label=""];
+}
