@@ -1,0 +1,27 @@
+digraph "decoder2to4" {
+label="decoder2to4";
+rankdir="LR";
+remincross=true;
+n1 [ shape=octagon, label="a0", color="black", fontcolor="black" ];
+n2 [ shape=octagon, label="a1", color="black", fontcolor="black" ];
+n3 [ shape=octagon, label="d0", color="black", fontcolor="black" ];
+n4 [ shape=octagon, label="d1", color="black", fontcolor="black" ];
+n5 [ shape=octagon, label="d2", color="black", fontcolor="black" ];
+n6 [ shape=octagon, label="d3", color="black", fontcolor="black" ];
+c10 [ shape=record, label="{{<p7> A|<p8> B}|$96\nsky130_fd_sc_hd__nor2_1|{<p9> Y}}" ];
+c13 [ shape=record, label="{{<p7> A|<p11> SLEEP}|$97\nsky130_fd_sc_hd__lpflow_isobufsrc_1|{<p12> X}}" ];
+c14 [ shape=record, label="{{<p7> A|<p11> SLEEP}|$98\nsky130_fd_sc_hd__lpflow_isobufsrc_1|{<p12> X}}" ];
+c15 [ shape=record, label="{{<p7> A|<p8> B}|$99\nsky130_fd_sc_hd__and2_0|{<p12> X}}" ];
+n1:e -> c10:p7:w [color="black", label=""];
+n1:e -> c13:p7:w [color="black", label=""];
+n1:e -> c14:p11:w [color="black", label=""];
+n1:e -> c15:p7:w [color="black", label=""];
+n2:e -> c10:p8:w [color="black", label=""];
+n2:e -> c13:p11:w [color="black", label=""];
+n2:e -> c14:p7:w [color="black", label=""];
+n2:e -> c15:p8:w [color="black", label=""];
+c10:p9:e -> n3:w [color="black", label=""];
+c13:p12:e -> n4:w [color="black", label=""];
+c14:p12:e -> n5:w [color="black", label=""];
+c15:p12:e -> n6:w [color="black", label=""];
+}

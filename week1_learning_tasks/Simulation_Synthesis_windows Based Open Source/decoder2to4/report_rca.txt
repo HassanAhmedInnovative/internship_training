@@ -1,0 +1,19 @@
+
+7. Printing statistics.
+
+=== decoder2to4 ===
+
+   Number of wires:                  6
+   Number of wire bits:              6
+   Number of public wires:           6
+   Number of public wire bits:       6
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  4
+     sky130_fd_sc_hd__and2_0         1
+     sky130_fd_sc_hd__lpflow_isobufsrc_1      2
+     sky130_fd_sc_hd__nor2_1         1
+
+   Chip area for module '\decoder2to4': 22.521600
+
