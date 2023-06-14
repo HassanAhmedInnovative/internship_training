@@ -1,0 +1,44 @@
+Brief View Of Circuitverse
+ It is an open-source platform for designing and simulating digital logic circuits.
+ It offers a user-friendly interface and a wide range of components to facilitate circuit design.
+ 
+ 
+ Accessing CircuitVerse:
+It can be accessed by visiting the website (https://circuitverse.org/). 
+It is a web-based tool, hence no need to install any software.
+
+
+Circuit Design:
+ Users can drag and drop components from the library onto the canvas and connect them using wires.
+ CircuitVerse supports a variety of logic gates, flip-flops, multiplexers, and other components necessary for digital logic design.
+ 
+ 
+ Simulation:
+ CircuitVerse provides a simulation feature that allows users to test their circuits' behavior. 
+ Users can input values to the circuit and observe the outputs.
+ CircuitVerse offers both basic simulations and advanced timing analysis.
+ 
+
+Waveform Behaviour:
+we have the availability of the waveform viewer in CircuitVerse as well.
+This waveform viewer allows users to visualize the circuit's behavior over time.
+Users can also add probes to specific nodes in the circuit and view the corresponding waveforms.
+
+
+Collaborative Features:
+It has collaborative features, such as the ability to share circuits with others and work together on projects.
+Users can generate shareable links to their circuits or collaborate with team members in real-time.
+
+
+Exporting And Embedding:
+Users can export their circuits from CircuitVerse in various formats, such as images or netlists, for use in other tools or documentation. Additionally
+CircuitVerse provides an option to embed circuits directly into websites or online platforms.
+
+
+Learning Resources:
+There are several learning resources provided by CircuitVerse, such as tutorials, documentation, or examples.
+Users are encouraged  to explore these resources to enhance their understanding of digital logic design and circuit simulation.
+
+
+Conclusion:
+Users are advised  to leverage CircuitVerse's features for their circuit design projects, simulations, and collaborative work.
