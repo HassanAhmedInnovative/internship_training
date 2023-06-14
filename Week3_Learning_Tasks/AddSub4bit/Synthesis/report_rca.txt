@@ -1,0 +1,20 @@
+
+8. Printing statistics.
+
+=== adder_subtractor_4bit ===
+
+   Number of wires:                 67
+   Number of wire bits:            131
+   Number of public wires:          67
+   Number of public wire bits:     131
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 25
+     sky130_fd_sc_hd__clkinv_1       4
+     sky130_fd_sc_hd__maj3_1         8
+     sky130_fd_sc_hd__mux2_1         5
+     sky130_fd_sc_hd__xor3_1         8
+
+   Chip area for module '\adder_subtractor_4bit': 341.577600
+
