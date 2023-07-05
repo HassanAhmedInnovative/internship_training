@@ -1,7 +1,7 @@
 # internship_training
 
-VLSI IC Chip Design Internship Repository
-Welcome to my VLSI IC Chip Design Internship repository! This repository documents my journey and learning experiences during my internship in the field of VLSI IC chip design. Here, I will be sharing the projects, code, and insights gained throughout this exciting opportunity.
+VLSI IC Chip Design Internship Repository<br/>
+<p align="justify">Welcome to my VLSI IC Chip Design Internship repository! This repository documents my journey and learning experiences during my internship in the field of VLSI IC chip design. Here, I will be sharing the projects, code, and insights gained throughout this exciting opportunity.</p>
 
 About Me
 I am an enthusiastic engineering student pursuing a degree in Electronics and Communication Engineering (ECE), with a strong focus on VLSI. Passionate about the intricate world of chip design, I am thrilled to be interning in this field and expanding my knowledge in VLSI IC design methodologies, tools, and techniques.
