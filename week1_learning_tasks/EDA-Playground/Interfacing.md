@@ -1,4 +1,5 @@
 **EDA Playground:Unleashing the Power of Online Circuit Design and Simulation**
+<img width="692" alt="image" src="https://github.com/HassanAhmedInnovative/internship_training/assets/133677674/86da96a3-f47b-4c6a-a0c7-8814a3401738">
 
 Purpose of EDA Playground
     It provides an online environment for designing, simulating and sharing digital circuits using HDLs
