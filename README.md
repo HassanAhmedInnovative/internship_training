@@ -1,6 +1,6 @@
 # internship_training
 
-VLSI IC Chip Design Internship Repository<br/>
+<b>VLSI IC Chip Design Internship Repository</b><br/>
 <p align="justify">Welcome to my VLSI IC Chip Design Internship repository! This repository documents my journey and learning experiences during my internship in the field of VLSI IC chip design. Here, I will be sharing the projects, code, and insights gained throughout this exciting opportunity.</p>
 
 About Me
