@@ -25,3 +25,7 @@ I believe in the power of collaboration and continuous improvement. I welcome fe
 
 Join me on this exciting internship journey as we delve into the intricacies of VLSI IC chip design. Let's push the boundaries of innovation and make significant contributions to the world of microelectronics!
 
+#### Contents:
+
+- [week-1](https://github.com/HassanAhmedInnovative/internship_training/tree/main/week1_learning_tasks)
+
